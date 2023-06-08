@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         hello world
+// @name         ailzr's hello world
 // @namespace    https://www.ailzr.com
 // @version      0.1
 // @description  new script
